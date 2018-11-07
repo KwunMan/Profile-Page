@@ -1,0 +1,73 @@
+body {
+    background-image: url('background.jpg');
+    background-color: #222222;
+    margin: 0 auto;
+    color: #222222;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    width: 700px;
+    /* This sets the width */
+    margin: 0 auto;
+    /* This automatically sets left/right margins */
+}
+
+.card {
+    background-color: #222222;
+    border: 1px solid #999999;
+    color: #FFFFFF;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+    border: 1px solid #333333;
+}
+
+
+#luis {
+    width: 300px;
+    border-radius: 50%;
+}
+
+.movies {
+    border: 2px dotted #333333;
+    width: 500px;
+    border-style: ;
+}
+
+#social_media {
+    font-size: 50px;
+}
+
+h1 {
+    font-size: 25px;
+    font-weight: strong;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: strong;
+}
+
+p {
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: #666666;
+}
+
+a:hover {
+    color: #999999;
+}
+
+li {
+    display: inline-block;
+}
+
+ul {
+    padding: 0px;
+    list-style: none;
+}
